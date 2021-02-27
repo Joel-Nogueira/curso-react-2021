@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-style: italic;
+}
+
+input{
+  font-size: larger;
+}
+
+.textoCentralizado{
+  text-align: center;
+}
